@@ -1,7 +1,7 @@
 # pandas_datascience
 Python Data Handling using Pandas.
 
-This repository includes various concepts of pandas library of python along with practicals. At the end, You can have challanges with solutions.
+This repository includes various concepts of the pandas library of Python along with practicals. In the end, You can have challenges with solutions.
 
 
 **What is Pandas?**
